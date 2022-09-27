@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="127.55" height="132" viewBox="0 0 127.55 132">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #005bd6;
+      }
+
+      .cls-3 {
+        filter: url(#Union_213);
+      }
+
+      .cls-4 {
+        filter: url(#Union_214);
+      }
+    </style>
+    <filter id="Union_214" x="1.483" y="0" width="126.067" height="126.069" filterUnits="userSpaceOnUse">
+      <feOffset dy="-1.483" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3.707" result="blur"/>
+      <feFlood flood-opacity="0.169"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_213" x="0" y="5.932" width="126.067" height="126.069" filterUnits="userSpaceOnUse">
+      <feOffset dx="-1.483" dy="4.449" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3.707" result="blur-2"/>
+      <feFlood flood-opacity="0.329"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="silver" transform="translate(14.435 14.428)">
+    <g class="cls-4" transform="matrix(1, 0, 0, 1, -14.44, -14.43)">
+      <path id="Union_214-2" data-name="Union 214" class="cls-1" d="M768.286-7060.178l-14.337-14.335H733.676a1.483,1.483,0,0,1-1.483-1.483v-20.274l-14.336-14.336a1.482,1.482,0,0,1-.435-1.049,1.482,1.482,0,0,1,.435-1.049l14.336-14.335v-20.273a1.483,1.483,0,0,1,1.483-1.483h20.273l14.337-14.336a1.483,1.483,0,0,1,2.1,0l14.335,14.336h20.275a1.483,1.483,0,0,1,1.483,1.483v20.274L820.81-7112.7a1.482,1.482,0,0,1,.435,1.049,1.482,1.482,0,0,1-.435,1.049l-14.334,14.336v20.276a1.483,1.483,0,0,1-1.483,1.483H784.719l-14.336,14.335a1.484,1.484,0,0,1-1.048.435A1.485,1.485,0,0,1,768.286-7060.178Z" transform="translate(-704.82 7176.17)"/>
+    </g>
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, -14.44, -14.43)">
+      <path id="Union_213-2" data-name="Union 213" class="cls-1" d="M768.286-7060.178l-14.337-14.335H733.676a1.483,1.483,0,0,1-1.483-1.483v-20.274l-14.336-14.336a1.482,1.482,0,0,1-.435-1.049,1.482,1.482,0,0,1,.435-1.049l14.336-14.335v-20.273a1.483,1.483,0,0,1,1.483-1.483h20.273l14.337-14.336a1.483,1.483,0,0,1,2.1,0l14.335,14.336h20.275a1.483,1.483,0,0,1,1.483,1.483v20.274L820.81-7112.7a1.482,1.482,0,0,1,.435,1.049,1.482,1.482,0,0,1-.435,1.049l-14.334,14.336v20.276a1.483,1.483,0,0,1-1.483,1.483H784.719l-14.336,14.335a1.484,1.484,0,0,1-1.048.435A1.485,1.485,0,0,1,768.286-7060.178Z" transform="translate(-704.82 7176.17)"/>
+    </g>
+    <path id="Union_26" data-name="Union 26" class="cls-2" d="M2.11,50.789,3.789,40.538H50.353l1.82,10.252ZM24.293,37.011H3.937L0,7.774,14.2,19.266,27.006.113,27.019,0l.034.044L27.086,0l.007.113L39.906,19.266,54.087,7.774,50.16,37.011Z" transform="translate(22.05 24.503)"/>
+  </g>
+</svg>

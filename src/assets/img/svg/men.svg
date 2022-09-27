@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.187" height="16.553" viewBox="0 0 15.187 16.553">
+    <g id="men" transform="translate(-180.421 -163.32)">
+        <path id="Path_7244" data-name="Path 7244"
+              d="M379.114,475.684h14.437v-2.1a4.8,4.8,0,0,0-4.781-4.781c-.342,0-1.123.819-2.438.819s-2.1-.819-2.438-.819a4.8,4.8,0,0,0-4.781,4.781Z"
+              transform="translate(-198.318 -296.186)" fill="none" stroke="#121212" stroke-linecap="round"
+              stroke-linejoin="round" stroke-width="0.75" fill-rule="evenodd"/>
+        <circle id="Ellipse_303" data-name="Ellipse 303" cx="3.597" cy="3.597" r="3.597"
+                transform="translate(184.417 163.695)" fill="none" stroke="#121212" stroke-linecap="round"
+                stroke-linejoin="round" stroke-width="0.75"/>
+        <path id="Path_7245" data-name="Path 7245" d="M418.743,468.8l-1.164,2.425-1.164,2.425-1.164-2.425-1.164-2.425"
+              transform="translate(-228.4 -296.186)" fill="none" stroke="#121212" stroke-linecap="round"
+              stroke-linejoin="round" stroke-width="0.75" fill-rule="evenodd"/>
+    </g>
+</svg>

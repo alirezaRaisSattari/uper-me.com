@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.523" height="18.5" viewBox="0 0 16.523 18.5">
+    <g id="Washer1" transform="translate(0.258 0.25)">
+        <path id="Path_6918" data-name="Path 6918"
+              d="M144.3,178.3h-1.82a1.224,1.224,0,0,1-1.15-1.185c-.024-1.1,0-4.605,0-4.605a3.509,3.509,0,0,1,.24-1.562c.335-.943.431-.862.144-1.724s-.575-1.643-.216-2.208a9.546,9.546,0,0,1,1.557-1.508h2.73l.838.808"
+              transform="translate(-141.318 -162.689)" fill="none" stroke="#bdbdbd" stroke-linecap="round"
+              stroke-miterlimit="2.613" stroke-width="0.5" fill-rule="evenodd"/>
+        <path id="Path_6919" data-name="Path 6919" d="M150.384,160.078v-.922l.515-.583h1.665l.551.583v.922"
+              transform="translate(-148.647 -157.257)" fill="none" stroke="#bdbdbd" stroke-linecap="round"
+              stroke-miterlimit="2.613" stroke-width="0.5" fill-rule="evenodd"/>
+        <rect id="Rectangle_1186" data-name="Rectangle 1186" width="1.665" height="1.315" rx="0.5"
+              transform="translate(2.252 0)" fill="none" stroke="#bdbdbd" stroke-linecap="round"
+              stroke-miterlimit="2.613" stroke-width="0.5"/>
+        <path id="Path_6920" data-name="Path 6920"
+              d="M151.576,173.232c.759,0,1.379-.42,1.379-.936s-.619-.936-1.379-.936-1.379.42-1.379.936S150.816,173.232,151.576,173.232Z"
+              transform="translate(-148.496 -167.293)" fill="none" stroke="#bdbdbd" stroke-linecap="round"
+              stroke-miterlimit="2.613" stroke-width="0.5" fill-rule="evenodd"/>
+        <path id="Path_6921" data-name="Path 6921" d="M148.815,195.483l-1.748-.6v3.634s-.1,1.356,1.7,1.356"
+              transform="translate(-145.964 -185.755)" fill="none" stroke="#bdbdbd" stroke-linecap="round"
+              stroke-miterlimit="2.613" stroke-width="0.5" fill-rule="evenodd"/>
+        <path id="Rectangle_1187" data-name="Rectangle 1187"
+              d="M.7,0H2.034a.7.7,0,0,1,.7.7v.438a.7.7,0,0,1-.7.7H.7a.7.7,0,0,1-.7-.7V.7A.7.7,0,0,1,.7,0Z"
+              transform="translate(6.665 1.899)" fill="none" stroke="#bdbdbd" stroke-linecap="round"
+              stroke-miterlimit="2.613" stroke-width="0.5"/>
+        <rect id="Rectangle_1188" data-name="Rectangle 1188" width="3.832" height="1.315" rx="0.5"
+              transform="translate(6.114 3.709)" fill="none" stroke="#bdbdbd" stroke-linecap="round"
+              stroke-miterlimit="2.613" stroke-width="0.5"/>
+        <path id="Path_6922" data-name="Path 6922"
+              d="M162.151,175.761a10.3,10.3,0,0,0-2.611,5.289,12.009,12.009,0,0,0,1.341,7.757h6.61a7.458,7.458,0,0,0,2.252-5.37,8.292,8.292,0,0,0-3.952-7.676"
+              transform="translate(-155.959 -170.807)" fill="none" stroke="#bdbdbd" stroke-linecap="round"
+              stroke-miterlimit="2.613" stroke-width="0.5" fill-rule="evenodd"/>
+        <path id="Path_6923" data-name="Path 6923"
+              d="M168.843,194.637a2.594,2.594,0,0,1,.51.051s1.978,3.04,1.919,5.021a2.83,2.83,0,0,1-2.43,1.493,3.307,3.307,0,0,1,0-6.564Z"
+              transform="translate(-161.242 -185.588)" fill="none" stroke="#bdbdbd" stroke-linecap="round"
+              stroke-miterlimit="2.613" stroke-width="0.5" fill-rule="evenodd"/>
+        <path id="Path_6924" data-name="Path 6924"
+              d="M194.877,193.12a5.551,5.551,0,0,1-.527-.949.652.652,0,0,1,1.006-.705c.766.407,1.6,3.228,1.174,5.072s-1.317,1-1.221.515A5.417,5.417,0,0,0,194.877,193.12Z"
+              transform="translate(-184.196 -182.986)" fill="none" stroke="#bdbdbd" stroke-linecap="round"
+              stroke-miterlimit="2.613" stroke-width="0.5" fill-rule="evenodd"/>
+        <path id="Path_6925" data-name="Path 6925"
+              d="M201.345,159.077l.719-2.767v-1.248h-.671s-.132.041-.335-.393a1.932,1.932,0,0,0-1.425-1.207v-.949h2.826a2.706,2.706,0,0,1,2.036,2.549h-2.431"
+              transform="translate(-188.494 -152.512)" fill="none" stroke="#bdbdbd" stroke-linecap="round"
+              stroke-miterlimit="2.613" stroke-width="0.5" fill-rule="evenodd"/>
+        <path id="Path_6926" data-name="Path 6926" d="M200.881,162.11a3.562,3.562,0,0,0,.93-1.748"
+              transform="translate(-189.495 -158.658)" fill="none" stroke="#bdbdbd" stroke-linecap="round"
+              stroke-miterlimit="2.613" stroke-width="0.5" fill-rule="evenodd"/>
+        <rect id="Rectangle_1189" data-name="Rectangle 1189" width="1.628" height="1.248"
+              transform="translate(13.569 2.55)" fill="none" stroke="#bdbdbd" stroke-linecap="round"
+              stroke-miterlimit="2.613" stroke-width="0.5"/>
+        <path id="Path_6927" data-name="Path 6927" d="M215.7,168.3l.216.372.563,3.3v7.242s-.12,1.356-.91,1.356h-.814"
+              transform="translate(-200.719 -164.962)" fill="none" stroke="#bdbdbd" stroke-linecap="round"
+              stroke-miterlimit="2.613" stroke-width="0.5" fill-rule="evenodd"/>
+    </g>
+</svg>

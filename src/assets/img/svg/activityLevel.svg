@@ -1,0 +1,35 @@
+<svg height="33.676" viewBox="0 0 33.907 33.676" width="33.907" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter filterUnits="userSpaceOnUse" height="23.18" id="Path_7327" width="22.199" x="11.708"
+        y="10.495">
+      <feOffset dy="1" input="SourceAlpha" />
+      <feGaussianBlur result="blur" stdDeviation="1.5" />
+      <feFlood flood-color="#6d6d6d" />
+      <feComposite in2="blur" operator="in" />
+      <feComposite in="SourceGraphic" />
+    </filter>
+    <filter filterUnits="userSpaceOnUse" height="23.181" id="Path_7328" width="22.199" x="0"
+        y="10.496">
+      <feOffset dy="1" input="SourceAlpha" />
+      <feGaussianBlur result="blur-2" stdDeviation="1.5" />
+      <feFlood flood-color="#6d6d6d" />
+      <feComposite in2="blur-2" operator="in" />
+      <feComposite in="SourceGraphic" />
+    </filter>
+  </defs>
+  <g data-name="sathe faaliat" id="sathe_faaliat" transform="translate(4.5 1.536)">
+    <g filter="url(#Path_7327)" transform="matrix(1, 0, 0, 1, -4.5, -1.54)">
+      <path d="M0,11.362l4.382-3.1,4.3,3.1V0H0Z" data-name="Path 7327" fill="#ec0707"
+          id="Path_7327-2" transform="translate(16.21 18.34) rotate(-30)" />
+    </g>
+    <g filter="url(#Path_7328)" transform="matrix(1, 0, 0, 1, -4.5, -1.54)">
+      <path d="M0,0,4.382,3.1,8.681,0V11.362H0Z" data-name="Path 7328" fill="#ec0707"
+          id="Path_7328-2" transform="translate(12.02 28.18) rotate(-150)" />
+    </g>
+    <ellipse style="mix-blend-mode: multiply;isolation: isolate" cx="8.942" cy="9.673"
+        data-name="Ellipse 269" fill="#6d6d6d" id="Ellipse_269" rx="8.942" ry="9.673"
+        transform="translate(3.498 1.464)" />
+    <circle cx="9.673" cy="9.673" data-name="Ellipse 308" fill="#ffd500" id="Ellipse_308" r="9.673"
+        transform="translate(2.767)" />
+  </g>
+</svg>

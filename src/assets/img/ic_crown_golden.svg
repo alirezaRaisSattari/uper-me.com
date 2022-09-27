@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="86.012" height="89.012" viewBox="0 0 86.012 89.012">
+    <defs>
+        <filter id="Union_214" x="1" y="0" width="85.012" height="85.012" filterUnits="userSpaceOnUse">
+            <feOffset dy="-1" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="2.5" result="blur"/>
+            <feFlood flood-opacity="0.169"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Union_213" x="0" y="4" width="85.012" height="85.012" filterUnits="userSpaceOnUse">
+            <feOffset dx="-1" dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="2.5" result="blur-2"/>
+            <feFlood flood-opacity="0.329"/>
+            <feComposite operator="in" in2="blur-2"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="golden" transform="translate(9.732 9.733)">
+        <g transform="matrix(1, 0, 0, 1, -9.73, -9.73)" filter="url(#Union_214)">
+            <path id="Union_214-2" data-name="Union 214"
+                  d="M518.085-4760.954l-9.668-9.667H494.746a1,1,0,0,1-1-1v-13.672l-9.667-9.667a1,1,0,0,1,0-1.415l9.667-9.667v-13.671a1,1,0,0,1,1-1h13.671l9.668-9.667a1,1,0,0,1,1.414,0l9.667,9.667h13.672a1,1,0,0,1,1,1v13.672l9.666,9.666a1,1,0,0,1,0,1.415l-9.666,9.667v13.673a1,1,0,0,1-1,1H529.166l-9.667,9.667a1,1,0,0,1-.707.293A1,1,0,0,1,518.085-4760.954Z"
+                  transform="translate(-475.29 4839.17)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -9.73, -9.73)" filter="url(#Union_213)">
+            <path id="Union_213-2" data-name="Union 213"
+                  d="M518.085-4760.954l-9.668-9.667H494.746a1,1,0,0,1-1-1v-13.672l-9.667-9.667a1,1,0,0,1,0-1.415l9.667-9.667v-13.671a1,1,0,0,1,1-1h13.671l9.668-9.667a1,1,0,0,1,1.414,0l9.667,9.667h13.672a1,1,0,0,1,1,1v13.672l9.666,9.666a1,1,0,0,1,0,1.415l-9.666,9.667v13.673a1,1,0,0,1-1,1H529.166l-9.667,9.667a1,1,0,0,1-.707.293A1,1,0,0,1,518.085-4760.954Z"
+                  transform="translate(-475.29 4839.17)" fill="#fff"/>
+        </g>
+        <path id="Union_26" data-name="Union 26"
+              d="M1.423,34.249l1.132-6.913h31.4l1.227,6.913Zm14.959-9.291H2.655L0,5.242l9.575,7.75L18.211.076,18.22,0l.023.03L18.265,0l.005.076,8.64,12.916,9.563-7.75L33.825,24.958Z"
+              transform="translate(14.869 16.523)" fill="#ffac07"/>
+    </g>
+</svg>

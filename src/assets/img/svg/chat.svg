@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32.409" height="20.005" viewBox="0 0 32.409 20.005">
+    <g id="chat" transform="translate(0.375 0.38)">
+        <path id="Union_217" data-name="Union 217"
+              d="M3.778,11.217H2.25A2.25,2.25,0,0,1,0,8.967V2.25A2.251,2.251,0,0,1,2.25,0H15.774a2.25,2.25,0,0,1,2.25,2.25V8.967a2.25,2.25,0,0,1-2.25,2.25H10.483l-6.7,3.747Z"
+              transform="translate(0 4.286)" fill="none" stroke="#121212" stroke-linecap="round" stroke-linejoin="round"
+              stroke-width="0.75"/>
+        <path id="Path_7353" data-name="Path 7353"
+              d="M660.937,666.659v-2.93a1.623,1.623,0,0,1,.5-.96,2.466,2.466,0,0,1,1.181-.373h14.716a2.176,2.176,0,0,1,2.447,2.3v6.81s.382,2-2.447,2h-3.343v2.856l-4.629-2.856h-3.044"
+              transform="translate(-648.144 -662.391)" fill="none" stroke="#121212" stroke-linecap="round"
+              stroke-linejoin="round" stroke-width="0.75"/>
+        <line id="Line_135" data-name="Line 135" x2="11.098" transform="translate(3.963 6.972)" fill="none"
+              stroke="#121212" stroke-linecap="round" stroke-width="0.75"/>
+        <line id="Line_136" data-name="Line 136" x2="7.014" transform="translate(20.986 2.467)" fill="none"
+              stroke="#121212" stroke-linecap="round" stroke-width="0.75"/>
+        <line id="Line_137" data-name="Line 137" x2="11.098" transform="translate(3.963 9.817)" fill="none"
+              stroke="#121212" stroke-linecap="round" stroke-width="0.75"/>
+        <line id="Line_138" data-name="Line 138" x2="7.014" transform="translate(20.986 5.3)" fill="none"
+              stroke="#121212" stroke-linecap="round" stroke-width="0.75"/>
+        <line id="Line_139" data-name="Line 139" x2="11.098" transform="translate(3.963 12.662)" fill="none"
+              stroke="#121212" stroke-linecap="round" stroke-width="0.75"/>
+        <line id="Line_140" data-name="Line 140" x2="7.014" transform="translate(20.986 8.145)" fill="none"
+              stroke="#121212" stroke-linecap="round" stroke-width="0.75"/>
+    </g>
+</svg>

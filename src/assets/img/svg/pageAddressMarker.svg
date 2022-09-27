@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44.136" height="27.555" viewBox="0 0 44.136 27.555">
+  <g id="icon_map_2" data-name="icon map 2" transform="translate(-430.335 -201.822)">
+    <path id="Path_7258" data-name="Path 7258" d="M449.4,195.881a6.523,6.523,0,0,1,5.524,9.989l-2.59,4.941-2.934,5.6-2.935-5.6q-1.3-2.47-2.59-4.941a6.522,6.522,0,0,1,5.524-9.989Z" transform="translate(3.002 6.316)" fill="#fff" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.613" stroke-width="0.75" fill-rule="evenodd"/>
+    <path id="Path_7257" data-name="Path 7257" d="M449.247,205.992a3.743,3.743,0,1,0-3.743-3.743A3.75,3.75,0,0,0,449.247,205.992Z" transform="translate(3.156 6.47)" fill="#fff" stroke="#757575" stroke-miterlimit="2.613" stroke-width="1.5" fill-rule="evenodd"/>
+    <g id="Group_4025" data-name="Group 4025">
+      <path id="Path_7259" data-name="Path 7259" d="M444.462,208.93l-5.283,2.641-8.619,15.709,10.982-4.587,10.711,4.726" transform="translate(0.149 1.463)" fill="none" stroke="#d3fcd0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.613" stroke-width="0.75" fill-rule="evenodd"/>
+      <path id="Path_7260" data-name="Path 7260" d="M451.891,221.6l-.021,5.52-10.711-4.726,3.615-10.773-7.657,2.711-3.138,5.719,9.117-3.429,6.613,2.644" transform="translate(0.532 1.764)" fill="none" stroke="#d3fcd0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.613" stroke-width="0.5" fill-rule="evenodd"/>
+      <line id="Line_3" data-name="Line 3" x1="1.147" y1="0.695" transform="translate(445.307 213.382)" fill="none" stroke="#d3fcd0" stroke-linecap="round" stroke-miterlimit="2.613" stroke-width="0.5"/>
+      <path id="Path_7261" data-name="Path 7261" d="M457.858,208.93l5.283,2.641,8.619,15.709-10.982-4.587-10.711,4.726" transform="translate(2.336 1.463)" fill="none" stroke="#d3fcd0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.613" stroke-width="0.75" fill-rule="evenodd"/>
+      <path id="Path_7262" data-name="Path 7262" d="M450.067,227.118l10.711-4.726-3.615-10.773,7.657,2.711,3.138,5.719-9.117-3.429-6.613,2.644" transform="translate(2.336 1.764)" fill="none" stroke="#d3fcd0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.613" stroke-width="0.5" fill-rule="evenodd"/>
+      <line id="Line_4" data-name="Line 4" y1="0.695" x2="1.147" transform="translate(458.351 213.382)" fill="none" stroke="#d3fcd0" stroke-linecap="round" stroke-miterlimit="2.613" stroke-width="0.5"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.75" height="28.75" viewBox="0 0 28.75 28.75">
+    <g id="Satisfied" transform="translate(0.375 0.375)">
+        <path id="Path_6397" data-name="Path 6397" d="M129.35,699.886a4.153,4.153,0,0,1-8.3,0"
+              transform="translate(-111.316 -681.996)" fill="none" stroke="#121212" stroke-linecap="round"
+              stroke-miterlimit="2.613" stroke-width="0.75" fill-rule="evenodd"/>
+        <ellipse id="Ellipse_243" data-name="Ellipse 243" cx="14" cy="14" rx="14" ry="14"
+                 transform="translate(0 28) rotate(-90)" fill="none" stroke="#121212" stroke-miterlimit="2.613"
+                 stroke-width="0.75"/>
+        <path id="Path_6445" data-name="Path 6445"
+              d="M64.749,692.978a1.274,1.274,0,1,1-1.274,1.273A1.274,1.274,0,0,1,64.749,692.978Z"
+              transform="translate(-46.162 -682.994)" fill="#121212" fill-rule="evenodd"/>
+        <path id="Path_6446" data-name="Path 6446"
+              d="M52.208,692.978a1.274,1.274,0,1,1-1.274,1.273A1.274,1.274,0,0,1,52.208,692.978Z"
+              transform="translate(-42.795 -682.994)" fill="#121212" fill-rule="evenodd"/>
+    </g>
+</svg>

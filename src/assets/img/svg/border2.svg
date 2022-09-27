@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="303.688" height="54.583"
+     viewBox="0 0 303.688 54.583">
+    <defs>
+        <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#f1f1f1"/>
+            <stop offset="0.515" stop-color="#707070"/>
+            <stop offset="1" stop-color="#f1f1f1"/>
+        </linearGradient>
+        <filter id="Path_5364" x="0" y="0" width="303.688" height="54.583" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feFlood flood-color="#f1f1f1"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#f9f9f9"/>
+            <stop offset="0.372" stop-color="#aea9a9"/>
+            <stop offset="1" stop-color="#aea9a9"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-3" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#fff"/>
+            <stop offset="1"/>
+        </linearGradient>
+    </defs>
+    <g id="border2" transform="translate(-199.244 -210.57)">
+        <g transform="matrix(1, 0, 0, 1, 199.24, 210.57)" filter="url(#Path_5364)">
+            <path id="Path_5364-2" data-name="Path 5364"
+                  d="M76.244,378.57h0c11.678,0,28.974.038,39.753,18.686s31.219,17.893,31.219,17.893H290.96s20.437.758,31.22-17.893,28.074-18.686,39.752-18.686H76.244Z"
+                  transform="translate(-67.24 -372.57)" fill="url(#linear-gradient)"/>
+        </g>
+        <path id="Path_5365" data-name="Path 5365"
+              d="M79.333,378.57h0c11.531,0,28.6.034,39.249,16.912S149.4,411.674,149.4,411.674H291.318s20.179.686,30.822-16.192,27.718-16.912,39.248-16.912H79.333Z"
+              transform="translate(130.728 -162)" fill="url(#linear-gradient-2)"/>
+        <path id="Path_5366" data-name="Path 5366"
+              d="M311.51,438.917h-137.2a37.384,37.384,0,0,1-16.878-4.223q-6.536-.931-12.888-2.182c11.042,12.237,27.307,11.687,27.307,11.687H313.968s14.234.484,25.111-9.468q-6.372.668-12.886,1.022A37.142,37.142,0,0,1,311.51,438.917Z"
+              transform="translate(108.178 -194.525)" fill="url(#linear-gradient-3)"
+              style="mix-blend-mode: screen;isolation: isolate"/>
+    </g>
+</svg>

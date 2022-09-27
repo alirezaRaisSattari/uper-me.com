@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.02" height="23.02" viewBox="0 0 23.02 23.02">
+    <g id="low" transform="translate(-253.968 -517.409)">
+        <path id="Path_5848" data-name="Path 5848"
+              d="M40.478,645.054a11.135,11.135,0,1,0-11.135-11.135A11.155,11.155,0,0,0,40.478,645.054Z"
+              transform="translate(225 -105)" fill="none" stroke="#121212" stroke-miterlimit="2.613" stroke-width="0.75"
+              fill-rule="evenodd"/>
+        <path id="Path_5849" data-name="Path 5849"
+              d="M48.3,632.483a9.457,9.457,0,0,1-17.352,0h5.144l1.619,1.464a2.375,2.375,0,0,0,.624.571,2.407,2.407,0,0,0,3.7-2.035Z"
+              transform="translate(225.858 -99.803)" fill="#0bef31" fill-rule="evenodd"/>
+        <path id="Path_5850" data-name="Path 5850" d="M30.438,633.656a9.459,9.459,0,1,1,18.908,0"
+              transform="translate(225.587 -104.413)" fill="none" stroke="#121212" stroke-miterlimit="2.613"
+              stroke-width="0.5" fill-rule="evenodd"/>
+        <line id="Line_463" data-name="Line 463" x1="1.203" y1="1.203" transform="translate(258.794 522.234)"
+              fill="none" stroke="#121212" stroke-miterlimit="2.613" stroke-width="0.5"/>
+        <line id="Line_464" data-name="Line 464" x2="1.701" transform="translate(256.025 528.92)" fill="none"
+              stroke="#121212" stroke-miterlimit="2.613" stroke-width="0.5"/>
+        <line id="Line_465" data-name="Line 465" y1="1.701" transform="translate(265.479 519.466)" fill="none"
+              stroke="#121212" stroke-miterlimit="2.613" stroke-width="0.5"/>
+        <line id="Line_466" data-name="Line 466" y1="1.203" x2="1.203" transform="translate(270.961 522.234)"
+              fill="none" stroke="#121212" stroke-miterlimit="2.613" stroke-width="0.5"/>
+        <line id="Line_467" data-name="Line 467" x1="1.701" transform="translate(273.231 528.92)" fill="none"
+              stroke="#121212" stroke-miterlimit="2.613" stroke-width="0.5"/>
+        <path id="Path_5851" data-name="Path 5851"
+              d="M34.441,632.292l3.743,3.385c.023.02.046.038.071.057a1.975,1.975,0,0,1,1.986-3.121l-.086-.043L35.5,630.626c-.716-.3-4.694-2.147-4.847-1.906S33.865,631.771,34.441,632.292Z"
+              transform="translate(225.698 -101.831)" fill="#121212" fill-rule="evenodd"/>
+        <path id="Path_5852" data-name="Path 5852"
+              d="M34.441,632.284l3.743,3.385c.023.02.046.038.071.057a1.976,1.976,0,0,1-.091-2.247l-7.513-4.767C30.5,628.958,33.865,631.765,34.441,632.284Z"
+              transform="translate(225.698 -101.823)" fill="#8d8c8c" fill-rule="evenodd"/>
+        <path id="Path_5853" data-name="Path 5853"
+              d="M54.652,631.2a1.749,1.749,0,0,1,.869,3.266,1.56,1.56,0,0,1-.15.078,1.75,1.75,0,0,1-2.349-2.236,1.774,1.774,0,0,1,.306-.5,1.991,1.991,0,0,1,.177-.178,1.747,1.747,0,0,1,1.146-.426Zm1.236.513a1.749,1.749,0,1,0,.512,1.235A1.744,1.744,0,0,0,55.887,631.711Z"
+              transform="translate(210.85 -100.266)" fill="none" stroke="#121212" stroke-width="0.5"
+              fill-rule="evenodd"/>
+    </g>
+</svg>

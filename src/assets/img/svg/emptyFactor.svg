@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="51.425" height="44.215" viewBox="0 0 51.425 44.215">
+  <g id="empty_factor" data-name="empty factor" transform="translate(-264.343 -340.718)">
+    <path id="Path_6701" data-name="Path 6701" d="M332.2,286.793h1.891c.457,0,.832-.5.832-1.108V255.82c0-1.9-1.167-3.453-2.593-3.453h-34.57c1.313,0,2.634,1.348,2.82,3.483.024.947,0,3.2,0,2.45" transform="translate(-26.896 88.851)" fill="none" stroke="#121212" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.613" stroke-width="1"/>
+    <path id="Path_6702" data-name="Path 6702" d="M301.809,296.686h-8.84v-3.924c0-1.214,1.265-2.207,2.811-2.207h3.269" transform="translate(-28.126 50.662)" fill="none" stroke="#121212" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.613" stroke-width="1"/>
+    <path id="Path_7420" data-name="Path 7420" d="M264.737,290.536l33.43.02v5.625c0,1.74-1.15,3.163-2.556,3.163H261.53" transform="translate(17.102 85.087)" fill="none" stroke="#121212" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.613" stroke-width="1"/>
+    <path id="Path_7421" data-name="Path 7421" d="M292.969,261.957v34.224a3.012,3.012,0,0,0,2.811,3.163h3.269" transform="translate(-19.285 85.087)" fill="none" stroke="#121212" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.613" stroke-width="1"/>
+    <path id="Path_7423" data-name="Path 7423" d="M299.048,290.556v5.625a3.012,3.012,0,0,1-2.811,3.163" transform="translate(-17.285 85.087)" fill="none" stroke="#121212" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.613" stroke-width="1"/>
+    <g id="Add" transform="translate(1510.477 293.222) rotate(90)">
+      <g id="Path_7205" data-name="Path 7205" transform="translate(57 1211.12)" fill="none">
+        <path d="M8.277,0A8.277,8.277,0,1,1,0,8.277,8.277,8.277,0,0,1,8.277,0Z" stroke="none"/>
+        <path d="M 8.277223587036133 1.000003814697266 C 4.264554023742676 1.000003814697266 1.000003814697266 4.264554023742676 1.000003814697266 8.277223587036133 C 1.000003814697266 12.28989410400391 4.264554023742676 15.554443359375 8.277223587036133 15.554443359375 C 12.28989410400391 15.554443359375 15.554443359375 12.28989410400391 15.554443359375 8.277223587036133 C 15.554443359375 4.264554023742676 12.28989410400391 1.000003814697266 8.277223587036133 1.000003814697266 M 8.277223587036133 3.814697265625e-06 C 12.84860324859619 3.814697265625e-06 16.554443359375 3.705843925476074 16.554443359375 8.277223587036133 C 16.554443359375 12.84860324859619 12.84860324859619 16.554443359375 8.277223587036133 16.554443359375 C 3.705843925476074 16.554443359375 3.814697265625e-06 12.84860324859619 3.814697265625e-06 8.277223587036133 C 3.814697265625e-06 3.705843925476074 3.705843925476074 3.814697265625e-06 8.277223587036133 3.814697265625e-06 Z" stroke="none" fill="#121212"/>
+      </g>
+      <line id="Line_810" data-name="Line 810" x2="7.79" transform="translate(62.523 1216.643) rotate(45)" fill="none" stroke="#121212" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_811" data-name="Line 811" y2="7.79" transform="translate(68.032 1216.643) rotate(45)" fill="none" stroke="#121212" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
